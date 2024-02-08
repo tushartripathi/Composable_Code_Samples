@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Composable_Code_Samples</string>
+    <string name="title_activity_simple_image">Simple_Image</string>
 </resources>
